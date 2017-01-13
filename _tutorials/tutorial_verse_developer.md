@@ -190,7 +190,7 @@ In this section, you will add a new application, which consists of one extension
         "name": "Mail Actions Sample",
         "type": "com.ibm.verse.ext.widget",
         "payload": {
-          "url": "https://git.swg.usma.ibm.com/pages/IBM-Verse/verse-developer-chrome-ext/samples/actions.html",
+          "url": "https://ibmcnxdev.github.io/IBM-Verse/verse-developer-chrome-ext/samples/actions.html",
           "features": [
             "core"
           ],
@@ -236,7 +236,7 @@ Your file `applications.json` should now look like this:
         "payload": {
           "text": "Person Action",
           "title": "Person Action",
-          "href": "https://git.swg.usma.ibm.com/pages/IBM-Verse/verse-developer-chrome-ext/samples/templatedLink.html?searchFor=${profile.primaryEmail}"
+          "href": "https://ibmcnxdev.github.io/IBM-Verse/verse-developer-chrome-ext/samples/templatedLink.html?searchFor=${profile.primaryEmail}"
         }
       }
     ],
@@ -255,7 +255,7 @@ Your file `applications.json` should now look like this:
         "name": "Mail Actions Sample",
         "type": "com.ibm.verse.ext.widget",
         "payload": {
-          "url": "https://git.swg.usma.ibm.com/pages/IBM-Verse/verse-developer-chrome-ext/samples/actions.html",
+          "url": "https://ibmcnxdev.github.io/IBM-Verse/verse-developer-chrome-ext/samples/actions.html",
           "features": [
             "core"
           ],
@@ -363,7 +363,7 @@ Your file `applications.json` should look something like this:
         "payload": {
           "text": "Person Action",
           "title": "Person Action",
-          "href": "https://git.swg.usma.ibm.com/pages/IBM-Verse/verse-developer-chrome-ext/samples/templatedLink.html?searchFor=${profile.primaryEmail}"
+          "href": "https://ibmcnxdev.github.io/verse-developer-chrome-ext/samples/templatedLink.html?searchFor=${profile.primaryEmail}"
         }
       }
     ],
@@ -382,7 +382,7 @@ Your file `applications.json` should look something like this:
         "name": "Mail Actions Sample",
         "type": "com.ibm.verse.ext.widget",
         "payload": {
-          "url": "https://git.swg.usma.ibm.com/pages/IBM-Verse/verse-developer-chrome-ext/samples/actions.html",
+          "url": "https://ibmcnxdev.github.io/IBM-Verse/verse-developer-chrome-ext/samples/actions.html",
           "features": [
             "core"
           ],
