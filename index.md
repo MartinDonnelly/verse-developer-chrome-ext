@@ -15,6 +15,6 @@ Notes
 All SVG in the `tutorials` folder come from [IBM Design's Icons repository][3].
 
 
-[1]: https://git.swg.usma.ibm.com/pages/IBM-Verse/verse-developer-chrome-ext/tutorials/tutorial_verse_developer.html
-[2]: https://git.swg.usma.ibm.com/pages/IBM-Verse/verse-developer-chrome-ext/reference/reference.html
+[1]: https://ibmcnxdev.github.io/verse-developer-chrome-ext/tutorials/tutorial_verse_developer.html
+[2]: https://ibmcnxdev.github.io/verse-developer-chrome-ext/reference/reference.html
 [3]:https://github.com/IBM-Design/icons
